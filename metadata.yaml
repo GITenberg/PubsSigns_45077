@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 45077-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45077#PubsSigns
 gutenberg_issued: '2014-03-08'
 gutenberg_type: Text
 identifiers:
